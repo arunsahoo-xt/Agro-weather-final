@@ -1,0 +1,15 @@
+.polyname {
+    position:absolute;;
+    right:0%;
+    top:12%;
+    width:30%;
+    background-color: rgba(0, 247, 255, 0.712);
+    height:53%;
+    overflow: auto;
+}
+.yoyo{
+    background-color: black;
+}
+.mapbox{
+    width:70%;
+}

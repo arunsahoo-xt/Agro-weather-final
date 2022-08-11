@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.041483e1.chunk.css",
+    "main.js": "/static/js/main.91416c6f.chunk.js",
+    "main.js.map": "/static/js/main.91416c6f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8d7a4f20.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8d7a4f20.js.map",
+    "static/css/2.faaa4956.chunk.css": "/static/css/2.faaa4956.chunk.css",
+    "static/js/2.3327f580.chunk.js": "/static/js/2.3327f580.chunk.js",
+    "static/js/2.3327f580.chunk.js.map": "/static/js/2.3327f580.chunk.js.map",
+    "static/js/3.0e65cae4.chunk.js": "/static/js/3.0e65cae4.chunk.js",
+    "static/js/3.0e65cae4.chunk.js.map": "/static/js/3.0e65cae4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.faaa4956.chunk.css.map": "/static/css/2.faaa4956.chunk.css.map",
+    "static/css/main.041483e1.chunk.css.map": "/static/css/main.041483e1.chunk.css.map",
+    "static/js/2.3327f580.chunk.js.LICENSE.txt": "/static/js/2.3327f580.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/background.3069822c.jpg",
+    "static/media/farmlogo1.d1f8e1dd.png": "/static/media/farmlogo1.d1f8e1dd.png",
+    "static/media/img1.ceb58290.png": "/static/media/img1.ceb58290.png",
+    "static/media/img2.9da4f0c0.png": "/static/media/img2.9da4f0c0.png",
+    "static/media/img3.a743ab6b.png": "/static/media/img3.a743ab6b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d7a4f20.js",
+    "static/css/2.faaa4956.chunk.css",
+    "static/js/2.3327f580.chunk.js",
+    "static/css/main.041483e1.chunk.css",
+    "static/js/main.91416c6f.chunk.js"
+  ]
+}

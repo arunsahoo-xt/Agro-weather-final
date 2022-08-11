@@ -1,0 +1,7 @@
+{
+    "name": "agro_weather",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }

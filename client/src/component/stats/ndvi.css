@@ -1,0 +1,52 @@
+/* .ndvitbl{
+    height: 400px;
+        overflow: auto;
+        position: relative;
+        margin-bottom: 3rem!important;
+ border: solid 3px blue;
+
+ background: #27293d;
+    border: 0;
+    position: relative;
+    width: 100%;
+    margin-bottom: 30px;
+    box-shadow: 0 1px 20px 0 rgb(0 0 0 / 10%);
+} */
+
+ .ndvitbl {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100px;
+    background-color: royalblue;
+  }
+  
+  td,
+  th {
+    text-align: left;
+    padding: 8px;
+    
+  }
+  
+  .scrollable {
+    height: 250px;
+    width: 300px;
+    overflow-y: scroll;
+    /* border-bottom: 1px solid #ddd; */
+    background-color: royalblue;
+  }
+  
+  th {
+    position: sticky;
+    /* background-color: white; */
+    z-index: 2;
+    top: 0;
+  }
+
+
+
+
+
+  .idk{
+     margin: 10px;
+      background-color: slategray;
+  }
