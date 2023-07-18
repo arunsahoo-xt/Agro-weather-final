@@ -47,7 +47,7 @@ if (process.env.NODE_ENV === 'production') {
     app.use(express.static(path.join('/agro_weather/build')));
   
 // Express serve up index.html file if it doesn't recognize route
-    console.log("fukk u");
+   
     app.get('*', (req, res) => {
       res.sendFile(path.join(__dirname,'agro_weather','build','index.html'));
     });
